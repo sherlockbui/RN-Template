@@ -180,6 +180,13 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 
+# Ruby/Bundler
+vendor/
+Gemfile.lock
+
+# Yarn
+yarn.lock
+
 # React Native specific
 *.hprof
 *.keystore
@@ -307,3 +314,8 @@ temp/
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+
+# Ruby/Bundler
+vendor/
+Gemfile.lock
+
