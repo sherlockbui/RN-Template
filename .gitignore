@@ -184,9 +184,6 @@ Desktop.ini
 vendor/
 Gemfile.lock
 
-# Yarn
-yarn.lock
-
 # React Native specific
 *.hprof
 *.keystore
